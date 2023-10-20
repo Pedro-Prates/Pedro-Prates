@@ -25,5 +25,4 @@ Olá, sou estudante de Ciência da Computação e, durante esta caminhada, estou
 
 ## Meus Principais Desafios de Projetos DIO
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Sistema_Bancario_PythonDeveloper&bg_color=000&border_color=32CD32&show_icons=true&icon_color=30A3DC&title_color=B22222&text_color=FFF)](https://github.com/Pedro-Prates/Sistema_Bancario_PythonDeveloper.git) 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=dio-lab-open-source&bg_color=000&border_color=32CD32&show_icons=true&icon_color=30A3DC&title_color=B22222&text_color=FFF)](https://github.com/Pedro-Prates/dio-lab-open-source.git)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Sistema_Bancario_PythonDeveloper&bg_color=000&border_color=32CD32&show_icons=true&icon_color=30A3DC&title_color=B22222&text_color=FFF)](https://github.com/Pedro-Prates/Sistema_Bancario_PythonDeveloper.git)
