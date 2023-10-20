@@ -14,7 +14,7 @@ Olá, sou estudante de Ciência da Computação e, durante esta caminhada, estou
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![Power BI](https://img.shields.io/badge/Power%20BI-000?style=for-the-badge&logo=power-bi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel&logoColor=217346)
-
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=mysql&logoColor=FFF)
 
 ## GitHub Stats
 
