@@ -1,6 +1,6 @@
 # 👋🏽 Pedro Henrique Sousa Prates
 
-Olá, sou estudante de Ciência da Computação e, durante esta caminhada, estou explorando todas as possíbilidades para me encontrar em uma das várias áreas da técnologia existentes e que podem vir a exixtir.
+Olá, sou estudante de Ciência da Computação e, durante esta caminhada, estou explorando todas as possíbilidades para me encontrar em uma das várias áreas da técnologia existentes e que podem vir a existir.
 
 ## Conecte-se comigo
 
