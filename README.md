@@ -1,8 +1,8 @@
 # 👋🏽 Pedro Henrique Sousa Prates
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/pedro-prates)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22CBF7&center=true&vCenter=true&random=false&width=435&lines=Bem-Vindo+ao+meu+perfil+%F0%9F%98%8E)](https://git.io/typing-svg)
 
-Olá, sou estudante de Ciência da Computação e, durante esta caminhada, estou explorando todas as possíbilidades para me encontrar em uma das várias áreas da técnologia existentes e que podem vir a existir.
+Olá, sou estudante de Ciência da Computação e busco aprofundar nas tecnologias que englobam o mundo do Data Science. Pretendo começar com Data Analytics e me aperfeiçoar mais ainda, aprendendo sempre.
 
 ## Conecte-se comigo
 
@@ -21,10 +21,10 @@ Olá, sou estudante de Ciência da Computação e, durante esta caminhada, estou
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Prates&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=32CD32&ring=E50000&fire=FF0000&currStreakLabel=B23636)](https://git.io/streak-stats)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Prates&theme=transparent&bg_color=000&border_color=32CD32&show_icons=true&icon_color=32CD32&title_color=B22222&text_color=FFF) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Prates&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=19e5e6&ring=f75b53&fire=FF0000&currStreakLabel=B23636)](https://git.io/streak-stats)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Prates&theme=transparent&bg_color=000&border_color=19e5e6&show_icons=true&icon_color=f75b53&title_color=B22222&text_color=FFF) 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedro-Prates&layout=compact&bg_color=000&border_color=32CD32&title_color=B22222&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedro-Prates&layout=compact&bg_color=000&border_color=19e5e6&title_color=B22222&text_color=FFF)
 
 ## Meus Principais Desafios de Projetos DIO
 
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Sistema_Bancario_PythonDeveloper&bg_color=000&border_color=32CD32&show_icons=true&icon_color=30A3DC&title_color=B22222&text_color=FFF)](https://github.com/Pedro-Prates/Sistema_Bancario_PythonDeveloper.git)
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Sistema_Bancario_PythonDeveloper&bg_color=000&border_color=19e5e6&show_icons=true&icon_color=30A3DC&title_color=B22222&text_color=FFF)](https://github.com/Pedro-Prates/Sistema_Bancario_PythonDeveloper.git)
