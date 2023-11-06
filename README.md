@@ -1,6 +1,6 @@
 # 👋🏽 Pedro Henrique Sousa Prates
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:%29)](https://git.io/pedro-prates)
 
 Olá, sou estudante de Ciência da Computação e, durante esta caminhada, estou explorando todas as possíbilidades para me encontrar em uma das várias áreas da técnologia existentes e que podem vir a existir.
 
