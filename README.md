@@ -23,7 +23,7 @@ Olá, sou estudante de Ciência da Computação busco aprofundar nas tecnologias
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedro-Prates&bg_color=000&border_color=147fc5&title_color=dc143c&text_color=fff)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Prates&theme=transparent&bg_color=000&border_color=147fc5&show_icons=true&icon_color=dc143c&title_color=dc143c&text_color=FFF) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pedro-Prates&theme=transparent&bg_color=000&border_color=147fc5&show_icons=true&icon_color=dc143c&title_color=dc143c&text_color=FFF)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Prates&theme=dark&date_format=M%20j%5B%2C%20Y%5D&background=000000&border=147fc5&ring=610000&fire=FF0000&currStreakLabel=9c0720)](https://git.io/streak-stats)  
 
