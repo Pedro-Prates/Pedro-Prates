@@ -21,7 +21,7 @@ Olá, sou estudante de Ciência da Computação busco aprofundar nas tecnologias
 
 ## GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true&title_color=fff&bg_color=000000&border_color=147FC5&icon_color=5C52FFC4&text_color=ffff)
+![Pedro Prates GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Prates&theme=transparent&show_icons=true&title_color=fff&bg_color=000000&border_color=147FC5&icon_color=5C52FFC4&text_color=ffff&ring_color=5C52FFC4)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Prates&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&fire=EB0000&ring=5C52FFC4&currStreakLabel=5392EB&sideNums=00EB2B&border=147FC5&background=000000)](https://git.io/streak-stats)
