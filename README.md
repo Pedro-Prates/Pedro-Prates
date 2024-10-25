@@ -21,8 +21,10 @@ Olá, sou estudante de Ciência da Computação busco aprofundar nas tecnologias
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Pedro-Prates&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Prates&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&fire=EB0000&ring=5C52FFC4&currStreakLabel=5392EB&sideNums=00EB2B&border=147FC5&background=EB545400)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent&show_icons=true&title_color=fff&bg_color=000000&border_color=147FC5&icon_color=5C52FFC4&text_color=ffff)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pedro-Prates&theme=dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly&fire=EB0000&ring=5C52FFC4&currStreakLabel=5392EB&sideNums=00EB2B&border=147FC5&background=000000)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedro-Prates&bg_color=000&border_color=147fc5&title_color=5392EB&text_color=fff)
 
