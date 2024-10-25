@@ -30,4 +30,4 @@ Olá, sou estudante de Ciência da Computação busco aprofundar nas tecnologias
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Sistema_Bancario_PythonDeveloper&bg_color=000&border_color=147fc5&show_icons=true&icon_color=dc143c&title_color=dc143c&text_color=FFF)](https://github.com/Pedro-Prates/Sistema_Bancario_PythonDeveloper)
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Calculadora-de-Signos&bg_color=000&border_color=147fc5&show_icons=true&icon_color=dc143c&title_color=dc143c&text_color=FFF)](https://github.com/Pedro-Prates/Calculadora-de-Signos)
-
+[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Desafio_Estacio_Python&bg_color=000&border_color=147fc5&show_icons=true&icon_color=dc143c&title_color=dc143c&text_color=FFF)](https://github.com/Pedro-Prates/Desafio_Estacio_Python)
