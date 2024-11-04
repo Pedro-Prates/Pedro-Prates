@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=22CBF7&center=true&vCenter=true&random=false&width=435&lines=Bem-Vindo+ao+meu+perfil+%F0%9F%98%8E)](https://git.io/typing-svg)
 
-Olá, sou estudante de Ciência da Computação busco aprofundar nas tecnologias que englobam o mundo do Data Science. Pretendo começar com Data Analytics e me aperfeiçoar mais ainda, aprendendo sempre.
+Sou um Profissional em Dados com experiência em transformar dados complexos em insights acionáveis que impulsionam decisões estratégicas. Ao longo dos anos, desenvolvi competências sólidas em Excel avançado, automação com Power Query, visualizações interativas com Power BI e Excel. Minha missão é ajudar empresas a maximizar seus resultados através de dados, seja por meio de automação de processos, criação de dashboards eficientes ou análise preditiva.
 
 ## Conecte-se comigo
 
