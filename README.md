@@ -28,12 +28,6 @@ Olá, sou estudante de Ciência da Computação busco aprofundar nas tecnologias
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Pedro-Prates&bg_color=000&border_color=147fc5&title_color=5392EB&text_color=fff)
 
-###
-
-<img src="https://raw.githubusercontent.com/Pedro-Prates/Pedro-Prates/output/snake.svg" alt="Snake animation" />
-
-###
-
 ## Meus Principais Projetos
 
 [![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=Pedro-Prates&repo=Sistema_Bancario_PythonDeveloper&bg_color=000&border_color=147fc5&show_icons=true&icon_color=dc143c&title_color=dc143c&text_color=FFF)](https://github.com/Pedro-Prates/Sistema_Bancario_PythonDeveloper)
